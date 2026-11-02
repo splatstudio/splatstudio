@@ -1,0 +1,12 @@
+{
+  "runnable": true,
+  "reusable_modules": [],
+  "tier": 1,
+  "stack": "Node + SplatStudio/3D",
+  "project": "splatstudio",
+  "runnable_command": "npm install && npm run dev",
+  "risk": "medium",
+  "next_action": "keep",
+  "estimated_hours": 1,
+  "sovereign_target": "to-decide"
+}
