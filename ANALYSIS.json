@@ -1,0 +1,14 @@
+{
+  "runnable": false,
+  "reusable_modules": [],
+  "tier": 1,
+  "stack": "Markdown Profile README",
+  "project": "splatstudio",
+  "runnable_command": null,
+  "risk": "low",
+  "next_action": "keep",
+  "estimated_hours": 0.5,
+  "sovereign_target": "profile",
+  "reason": "No package.json, no Dockerfile, no docker-compose - only profile README.md",
+  "actual_files": ["README.md", "TASK.md", "RUNBOOK.md", "ARCHITECTURE.md"]
+}

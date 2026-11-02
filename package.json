@@ -1,0 +1,14 @@
+{
+  "name": "splatstudio.app",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": ["apps/*", "packages/*"],
+  "scripts": {
+    "dev": "turbo run dev",
+    "build": "turbo run build",
+    "test:all": "node packages/core/test-all.js"
+  },
+  "devDependencies": {
+    "turbo": "latest"
+  }
+}
