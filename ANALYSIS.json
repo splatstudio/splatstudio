@@ -1,12 +1,14 @@
 {
-  "runnable": true,
+  "runnable": false,
   "reusable_modules": [],
   "tier": 1,
-  "stack": "Node + SplatStudio/3D",
+  "stack": "Markdown Profile README",
   "project": "splatstudio",
-  "runnable_command": "npm install && npm run dev",
-  "risk": "medium",
+  "runnable_command": null,
+  "risk": "low",
   "next_action": "keep",
-  "estimated_hours": 1,
-  "sovereign_target": "to-decide"
+  "estimated_hours": 0.5,
+  "sovereign_target": "profile",
+  "reason": "No package.json, no Dockerfile, no docker-compose - only profile README.md",
+  "actual_files": ["README.md", "TASK.md", "RUNBOOK.md", "ARCHITECTURE.md"]
 }
